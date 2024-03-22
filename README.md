@@ -1,1 +1,1 @@
-# MySQL_Project
+# Time Series Analysis Project(MySQL)
