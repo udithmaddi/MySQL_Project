@@ -1,4 +1,4 @@
-# 🕒 Time Series Analysis with MySQL - Superstore Dataset
+# 🕒 Time Series Analysis Using MySQL - Superstore Dataset
 
 This project focuses on **time series data analysis using MySQL** with the Superstore dataset. The goal is to explore temporal trends, moving averages, and ranking mechanisms, and draw insights from historical sales data over time.
 
